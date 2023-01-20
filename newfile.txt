@@ -5,3 +5,5 @@ Another commit
 
 
 Added new change
+
+Changes from mynewbranch
